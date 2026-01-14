@@ -2,7 +2,7 @@ import { QRCodeSVG } from "qrcode.react"
 import { useState } from "react";
 import { GENERATE_DATA, SCAN_DATA } from '../../constants'
 
-import s from "./qrCodeGenerator.module.css"
+import s from "./QrCodeGenerator.module.css"
 
 
 export default function QrCodeGenerator(){
